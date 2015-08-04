@@ -1,0 +1,6 @@
+<map id="cs251::callbacks_t::mouse_cb" name="cs251::callbacks_t::mouse_cb">
+<area shape="rect" id="node2" href="$classcs251_1_1callbacks__t.html#aa630c1af75a5e78d87c91176dcd56301" title="Helper function for coordinates system conversion Note the function is a static function. Read about C++ static functions. " alt="" coords="184,5,359,47"/>
+<area shape="rect" id="node3" href="$classcs251_1_1base__sim__t.html#ae765f83d69df062a0ac5f4e783f39d74" title="cs251::base_sim_t::\lshift_mouse_down" alt="" coords="201,71,341,112"/>
+<area shape="rect" id="node4" href="$classcs251_1_1base__sim__t.html#aa46727d69005f5d0f63517b656a47d28" title="cs251::base_sim_t::\lmouse_down" alt="" coords="201,136,341,177"/>
+<area shape="rect" id="node5" href="$classcs251_1_1base__sim__t.html#a03830f3679f2c6c541f4717ad9f50287" title="cs251::base_sim_t::\lmouse_up" alt="" coords="201,201,341,243"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="create_glui_ui" name="create_glui_ui">
+<area shape="rect" id="node2" href="$classcs251_1_1callbacks__t.html#a9bdbddb25840a38974865a277d3f1fa1" title="GLUI callback &#45; Called when the pause button is pressed. " alt="" coords="156,5,287,47"/>
+<area shape="rect" id="node3" href="$classcs251_1_1callbacks__t.html#a777044c31f565f782e93dec6b1a93256" title="GLUI callback &#45; Called when the single&#45;step button is pressed. " alt="" coords="156,71,287,112"/>
+<area shape="rect" id="node4" href="$classcs251_1_1callbacks__t.html#a1ed9a96500fcd14fad4bac12211702b1" title="GLUI callback &#45; Called when the restart button is pressed. " alt="" coords="156,136,287,177"/>
+<area shape="rect" id="node6" href="$classcs251_1_1callbacks__t.html#a87ec8f55a851cd32781a3b9080077f49" title="GLUI callback &#45; Called when the exit button is pressed. " alt="" coords="156,201,287,243"/>
+<area shape="rect" id="node5" href="$classcs251_1_1callbacks__t.html#a687e7cfeacbb7951d2fd13d93ccbbfad" title="GLUT resize callback. This is set via GLUI. Why is this so? This gets called when the window is resiz..." alt="" coords="335,136,465,177"/>
+</map>

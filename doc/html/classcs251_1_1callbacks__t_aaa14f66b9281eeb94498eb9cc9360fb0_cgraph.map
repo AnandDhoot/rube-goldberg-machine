@@ -1,0 +1,6 @@
+<map id="cs251::callbacks_t::display_cb" name="cs251::callbacks_t::display_cb">
+<area shape="rect" id="node2" href="$classcs251_1_1base__sim__t.html#ab70f1df4c5f6afdc662e9d0356afbe41" title="cs251::base_sim_t::\lset_text_line" alt="" coords="197,5,337,47"/>
+<area shape="rect" id="node3" href="$classcs251_1_1base__sim__t.html#af2667e32281a3878c77f4859b1a71b68" title="cs251::base_sim_t::step" alt="" coords="184,71,349,98"/>
+<area shape="rect" id="node4" href="$classcs251_1_1callbacks__t.html#a687e7cfeacbb7951d2fd13d93ccbbfad" title="GLUT resize callback. This is set via GLUI. Why is this so? This gets called when the window is resiz..." alt="" coords="201,123,332,164"/>
+<area shape="rect" id="node5" href="$classcs251_1_1base__sim__t.html#ab1019cd5117fd02f705dcbc1b160d53f" title="cs251::base_sim_t::\ldraw_title" alt="" coords="197,188,337,229"/>
+</map>

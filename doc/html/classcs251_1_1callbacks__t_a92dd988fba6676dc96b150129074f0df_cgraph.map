@@ -1,0 +1,5 @@
+<map id="cs251::callbacks_t::mouse_motion_cb" name="cs251::callbacks_t::mouse_motion_cb">
+<area shape="rect" id="node2" href="$classcs251_1_1callbacks__t.html#aa630c1af75a5e78d87c91176dcd56301" title="Helper function for coordinates system conversion Note the function is a static function. Read about C++ static functions. " alt="" coords="189,5,364,47"/>
+<area shape="rect" id="node3" href="$classcs251_1_1base__sim__t.html#a33fcdfb6a715db82e6ee3b4f28fa440b" title="cs251::base_sim_t::\lmouse_move" alt="" coords="207,71,347,112"/>
+<area shape="rect" id="node4" href="$classcs251_1_1callbacks__t.html#a687e7cfeacbb7951d2fd13d93ccbbfad" title="GLUT resize callback. This is set via GLUI. Why is this so? This gets called when the window is resiz..." alt="" coords="211,136,342,177"/>
+</map>
